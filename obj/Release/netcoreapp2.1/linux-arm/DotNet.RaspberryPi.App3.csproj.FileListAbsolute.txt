@@ -1,0 +1,15 @@
+C:\Source\DotNet.RaspberryPi.App3\bin\Release\netcoreapp2.1\linux-arm\libhostpolicy.so
+C:\Source\DotNet.RaspberryPi.App3\bin\Release\netcoreapp2.1\linux-arm\libhostfxr.so
+C:\Source\DotNet.RaspberryPi.App3\bin\Release\netcoreapp2.1\linux-arm\DotNet.RaspberryPi.App3.App3
+C:\Source\DotNet.RaspberryPi.App3\bin\Release\netcoreapp2.1\linux-arm\nlog.config
+C:\Source\DotNet.RaspberryPi.App3\bin\Release\netcoreapp2.1\linux-arm\DotNet.RaspberryPi.App3.deps.json
+C:\Source\DotNet.RaspberryPi.App3\bin\Release\netcoreapp2.1\linux-arm\DotNet.RaspberryPi.App3.runtimeconfig.json
+C:\Source\DotNet.RaspberryPi.App3\bin\Release\netcoreapp2.1\linux-arm\DotNet.RaspberryPi.App3.runtimeconfig.dev.json
+C:\Source\DotNet.RaspberryPi.App3\bin\Release\netcoreapp2.1\linux-arm\DotNet.RaspberryPi.App3.dll
+C:\Source\DotNet.RaspberryPi.App3\bin\Release\netcoreapp2.1\linux-arm\DotNet.RaspberryPi.App3.pdb
+C:\Source\DotNet.RaspberryPi.App3\obj\Release\netcoreapp2.1\linux-arm\DotNet.RaspberryPi.App3.csprojAssemblyReference.cache
+C:\Source\DotNet.RaspberryPi.App3\obj\Release\netcoreapp2.1\linux-arm\DotNet.RaspberryPi.App3.csproj.CoreCompileInputs.cache
+C:\Source\DotNet.RaspberryPi.App3\obj\Release\netcoreapp2.1\linux-arm\DotNet.RaspberryPi.App3.AssemblyInfoInputs.cache
+C:\Source\DotNet.RaspberryPi.App3\obj\Release\netcoreapp2.1\linux-arm\DotNet.RaspberryPi.App3.AssemblyInfo.cs
+C:\Source\DotNet.RaspberryPi.App3\obj\Release\netcoreapp2.1\linux-arm\DotNet.RaspberryPi.App3.dll
+C:\Source\DotNet.RaspberryPi.App3\obj\Release\netcoreapp2.1\linux-arm\DotNet.RaspberryPi.App3.pdb

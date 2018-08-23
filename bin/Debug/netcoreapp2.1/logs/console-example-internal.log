@@ -1,0 +1,12 @@
+2018-08-23 18:35:32.1547 Info Message Template Auto Format enabled
+2018-08-23 18:35:32.2564 Info Adding target File Target[target1]
+2018-08-23 18:35:32.2564 Info Adding target Console Target[target2]
+2018-08-23 18:35:32.2704 Info Configured from an XML element in C:\Source\DotNet.RaspberryPi.App3\bin\Debug\netcoreapp2.1\nlog.config...
+2018-08-23 18:35:32.2925 Info Found 33 configuration items
+2018-08-23 18:35:32.9905 Info Message Template Auto Format enabled
+2018-08-23 18:35:32.9905 Info Found 33 configuration items
+2018-08-23 18:35:32.9905 Info Adding target File Target[target1]
+2018-08-23 18:35:33.0053 Info Adding target Console Target[target2]
+2018-08-23 18:35:33.0053 Info Configured from an XML element in C:\Source\DotNet.RaspberryPi.App3\bin\Debug\netcoreapp2.1\nlog.config...
+2018-08-23 18:35:33.0348 Info Closing old configuration.
+2018-08-23 18:35:33.0999 Info Found 33 configuration items
